@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  # DAY 2 — OSI MODEL + TCP/IP MODEL
+=======
+# DAY 2 — OSI MODEL + TCP/IP MODEL
+>>>>>>> ad685168640547e93785c517c1d3020348e4d78e
 ## SOC Analyst L1 Roadmap — Phase 1, Week 1
 
 ---
@@ -654,6 +658,10 @@ Frame = Data Link Layer data unit.
 
 Bits = Physical Layer data unit.
 
+<<<<<<< HEAD
+=======
+---
+>>>>>>> ad685168640547e93785c517c1d3020348e4d78e
 
 
 **End of Day 2 — OSI Model + TCP/IP Model**
